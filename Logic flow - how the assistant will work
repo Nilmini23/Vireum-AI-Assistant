@@ -5,3 +5,19 @@ User → Voice/Text Input → AI Model →
    - Recommend solution
    - Offer meeting booking
    - Save data securely
+
+
+vireum/
+│
+├── backend/
+│   ├── main.py                ← your FastAPI app (keep here)
+│   ├── requirements.txt       ← optional (dependencies)
+│   └── venv/                  ← virtual environment (keep separate)
+│       ├── Scripts/
+│       ├── Lib/
+│       └── ...
+│
+└── frontend/
+    ├── package.json
+    ├── src/
+    └── ...
