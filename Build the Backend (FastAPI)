@@ -1,0 +1,8 @@
+#1 Create and activate a virtual environment
+conda info --envs
+conda activate devAI
+
+#2 Install dependencies
+pip install fastapi uvicorn transformers torch google-api-python-client google-auth-httplib2 google-auth-oauthlib
+
+
