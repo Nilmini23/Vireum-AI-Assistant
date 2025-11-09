@@ -1,0 +1,16 @@
+**Step 1 — Install Required Libraries**
+pip install google-api-python-client google-auth google-auth-httplib2 google-auth-oauthlib
+
+**Step 2 — Set Up Google API Credentials**
+
+1. Go to GoogleCloudConsole
+2. Create a new project (or use an existing one).
+3. Enable the Google Calendar API.
+4. Create OAuth 2.0 Client ID credentials (type: Desktop app).
+5. Download the JSON file and save it as credentials.json in your project folder (ai-assistant-project/).
+
+**Step 3 — Add Google Calendar Helper Function**
+
+Create a new file google_calendar.py (or add inside app.py)
+
+**Step 4 — Integrate Booking in Streamlit**
