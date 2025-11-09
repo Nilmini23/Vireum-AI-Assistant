@@ -1,8 +1,8 @@
-Build a voice + text conversational AI assistant in Streamlit that:
+Build a voice + text conversational AI assistant in Streamlit
 
-Talks with users via text and voice
-Asks guided questions to understand an AI project idea
-Gives a rough cost & schedule estimate
-Suggests AI technologies or solutions
-Allows meeting booking via Google Calendar
-Stores user info locally (CSV or SQLite)
+1. Talks with users via text and voice
+2. Asks guided questions to understand an AI project idea
+3. Gives a rough cost & schedule estimate
+4. Suggests AI technologies or solutions
+5. Allows meeting booking via Google Calendar
+6. Stores user info locally (CSV)
