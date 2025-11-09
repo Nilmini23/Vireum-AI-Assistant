@@ -1,0 +1,7 @@
+ai-assistant-project/
+│
+├── app.py
+├── requirements.txt
+├── data/
+│    └── users.csv
+└── credentials.json   (Google Calendar)
