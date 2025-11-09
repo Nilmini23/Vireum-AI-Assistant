@@ -1,0 +1,12 @@
+streamlit
+transformers
+torch
+speechrecognition
+pyttsx3
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+dateparser
+pyaudio
+pandas
