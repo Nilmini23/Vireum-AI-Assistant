@@ -1,0 +1,9 @@
+| Purpose           | Library                                               |
+| ----------------- | ----------------------------------------------------- |
+| UI                | Streamlit                                        |
+| Speech Input      | SpeechRecognition + PyAudio                       |
+| Speech Output     | pyttsx3                                           |
+| AI Response       | transformers (offline) or OpenAI API (online) |
+| Time/Date Parsing | dateparser                                        |
+| Scheduling        | google-api-python-client                         |
+| Data Storage      | pandas (CSV) or sqlite3                       |
