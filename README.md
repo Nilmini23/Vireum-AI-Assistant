@@ -13,13 +13,7 @@ pip install -r requirements.txt
 **Step 5 — Run App.py**
 streamlit run app.py
 
-If the venv breaks, to recreate it, we need to use following codes
+If the venv breaks, to recreate it, we need to follow codes given.
 
-python -m venv venv
 
-venv\Scripts\activate
-
-pip install -r requirements.txt
-
-streamlit run app.py
 
